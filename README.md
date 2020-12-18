@@ -2,7 +2,7 @@
 
 - <img src="assets\info.gif" width="25" height="25" /> I work currently as a freelance iOS and Flutter developer, and Teaching Assistant at the Faculty of Computers and information at Tanta University.
 - <img src="assets\book.gif" width="25" height="25" /> I’m currently learning ML with python.
-- <img src="assets\projects.gif" width="25" height="25" /> Check out my latest projects on this repository.
+- <img src="assets\projects.gif" width="25" height="25" /> Check out my latest projects on this [repository](https://github.com/Mohanedy98/Portfolio).
 
 <!--
 **Mohanedy98/Mohanedy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
