@@ -4,9 +4,12 @@
 - <img src="assets\book.gif" width="25" height="25" /> I’m currently learning ML with python.
 - <img src="assets\projects.gif" width="25" height="25" /> Check out my latest projects on this [repository](https://github.com/Mohanedy98/Portfolio).
 - <img src="assets\contact-me.gif" width="45" height="30" /> you can reach me at:
+<p align="center">
+ <a href="https://twitter.com/mohanedy98"><img src="assets\twitter.gif" width="50" height="50"  /> </a>   <a href="https://www.facebook.com/mohanedy98"><img src="assets\facebook.gif" width="60" height="50"  /> </a>
+ <a href="mailto:mohaned.y98@gmail.com"> <img src="assets\mail.gif" width="60" height="50"/> </a>
 
-| <a href="https://twitter.com/mohanedy98"><img src="assets\twitter.gif" width="50" height="50"  /> </a>  | <a href="https://www.facebook.com/mohanedy98"><img src="assets\facebook.gif" width="60" height="50"  /> </a> | <a href="mailto:mohaned.y98@gmail.com"><img src="assets\mail.gif" width="60" height="50"/> </a> |
-| ------------- | ------------- | ------------- |
+ </p>
+
 
 <!--
 **Mohanedy98/Mohanedy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
