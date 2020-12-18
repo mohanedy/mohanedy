@@ -1,7 +1,8 @@
- ##  <img src="assets\hello2.gif" width="60" height="60" />Assalamu Alaikum - السَّلاَمُ عَلَيْكُمْ <img src="assets\hello2.gif" width="60" height="60" />
+ #  <img src="assets\hello2.gif" width="60" height="60" />Assalamu Alaikum - السَّلاَمُ عَلَيْكُمْ <img src="assets\hello2.gif" width="60" height="60" />
 
 - <img src="assets\info.gif" width="25" height="25" /> I work currently as a freelance iOS and Flutter developer, and Teaching Assistant at the Faculty of Computers and information at Tanta University.
 - <img src="assets\book.gif" width="25" height="25" /> I’m currently learning ML with python.
+- <img src="assets\projects.gif" width="25" height="25" /> Check out my latest projects on this repository.
 
 <!--
 **Mohanedy98/Mohanedy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
