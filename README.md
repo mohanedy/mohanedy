@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="assets\hello.gif" width="60" height="60" /> Assalamu Alaikum - السَّلاَمُ عَلَيْكُمْ <img src="assets\hello.gif" width="60" height="60" />
 
 <!--
 **Mohanedy98/Mohanedy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
