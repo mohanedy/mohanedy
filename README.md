@@ -10,7 +10,12 @@
  <a href="https://twitter.com/mohanedy98"><img src="assets\twitter.gif" width="50" height="50"  /> </a> <a href="https://www.facebook.com/mohanedy98"><img src="assets\facebook.gif" width="60" height="50"  /> </a>  <a href="mailto:mohaned.y98@gmail.com"> <img src="assets\mail.gif" width="60" height="50"/> </a>
  <br/>
  </p>
-
+ </br>
+ <p align="center">
+ ⚡ My Favorite Superhero ⚡
+ </br>
+  <a href="https://twitter.com/mohanedy98"><img src="assets\batman.gif" width="90" height="90"  /> </a>
+  </p>
 
 <!--
 **Mohanedy98/Mohanedy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
