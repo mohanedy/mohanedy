@@ -1,6 +1,6 @@
  ###  <img src="assets\hello.gif" width="60" height="60" />Assalamu Alaikum - السَّلاَمُ عَلَيْكُمْ <img src="assets\hello.gif" width="60" height="60" />
 
-<img src="assets\info.gif" width="25" height="25" />I work currently as a freelance iOS and Flutter developer, and Teaching Assistant at the Faculty of Computers and information at Tanta University.
+<img src="assets\info.gif" width="25" height="25" /> I work currently as a freelance iOS and Flutter developer, and Teaching Assistant at the Faculty of Computers and information at Tanta University.
 
 
 <!--
