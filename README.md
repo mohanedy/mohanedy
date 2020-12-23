@@ -11,11 +11,13 @@
  <br/>
  </p>
  </br>
+
+ [![Mohaned's github stats](https://github-readme-stats.vercel.app/api?username=Mohanedy98&count_private=true&theme=cobalt&show_icons=true)](https://github.com/Mohanedy98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanedy98&layout=compact&theme=cobalt)](https://github.com/Mohanedy98)
  <p align="center">
- ⚡ My Favorite Superhero ⚡
- </br>
   <a href="https://twitter.com/mohanedy98"><img src="assets\batman.gif" width="90" height="90"  /> </a>
   </p>
+
 
 <!--
 **Mohanedy98/Mohanedy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
