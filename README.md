@@ -1,4 +1,5 @@
- #  <img src="assets\hello2.gif" width="60" height="60" />Assalamu Alaikum - السَّلاَمُ عَلَيْكُمْ <img src="assets\hello2.gif" width="60" height="60" />
+# Assalamu Alaikum - السَّلاَمُ عَلَيْكُم
+
 
 - <img src="assets\info.gif" width="25" height="25" /> I work currently as a freelance iOS and Flutter developer, and Teaching Assistant at the Faculty of Computers and information at Tanta University.
 - <img src="assets\book.gif" width="25" height="25" /> I’m currently learning ML with python.
