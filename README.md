@@ -19,7 +19,7 @@
   <a href="https://twitter.com/mohanedy98"><img src="assets\batman.gif" width="90" height="90"  /> </a>
   </p>
 
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mohanedy98/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 <!--
 **Mohanedy98/Mohanedy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
