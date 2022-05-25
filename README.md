@@ -15,12 +15,12 @@ I’m a Mobile Developer located in Egypt. I have a serious passion for programm
 [![Template Method Design Pattern in Dart - Medium](https://github-readme-medium.vercel.app/?username=mohaned.y98)](https://medium.com/@mohaned.y98)
 
 ## 📞 Contact Me
-[![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/mohanedy98) [![Facebook](./assets/facebook.png)](https://www.facebook.com/mohanedy98) [![Twitter](./assets/twitter.png)](https://twitter.com/mohanedy98) [![Email](./assets/gmail.png)](mailto:mohaned.y98@gmail.com)
+[![LinkedIn](./assets/linkedin.png)]  (https://www.linkedin.com/in/mohanedy98)   -   [![Facebook](./assets/facebook.png)](https://www.facebook.com/mohanedy98)   -    [![Twitter](./assets/twitter.png)](https://twitter.com/mohanedy98)   -    [![Email](./assets/gmail.png)](mailto:mohaned.y98@gmail.com)
 
 ## ⚡️ Stats
 
  [![Mohaned's github stats](https://github-readme-stats.vercel.app/api?username=Mohanedy98&count_private=true&theme=cobalt&show_icons=true)](https://github.com/Mohanedy98)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanedy98&layout=compact&theme=cobalt)](https://github.com/Mohanedy98)[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mohanedy98/repos?time_range=one_year&theme=dark)](https://githubtrends.io) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohanedy98&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanedy98&layout=compact&theme=cobalt)](https://github.com/Mohanedy98) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohanedy98&theme=dark)](https://git.io/streak-stats)
 
 
 
