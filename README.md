@@ -1,9 +1,9 @@
-# Assalamu Alaikum - السَّلاَمُ عَلَيْكُم
+![GitHub Trends SVG](./assets/intro_cover.png)
+---
 
-
-- <img src="assets\info.gif" width="25" height="25" /> I work currently as a freelance iOS and Flutter developer, and Teaching Assistant at the Faculty of Computers and information at Tanta University.
+- <img src="assets\info.gif" width="25" height="25" /> I work currently as a Flutter & iOS Developer at Devstric.
 - <img src="assets\book.gif" width="25" height="25" /> I’m currently learning ML with python.
-- <img src="assets\projects.gif" width="25" height="25" /> Check out my latest projects on this [repository](https://github.com/Mohanedy98/Portfolio).
+- <img src="assets\projects.gif" width="25" height="25" /> Check out my latest projects [here](https://github.com/Mohanedy98/Portfolio).
 
 <p align="center">
  <img src="assets\contact-me.gif" width="50" height="30"  />Reach me at<img src="assets\contact-me.gif" width="50" height="30"  />
