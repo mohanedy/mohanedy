@@ -49,7 +49,7 @@ positive people.
 <img src="https://img.shields.io/badge/-Flutter-0175C2?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
-## 🔓 Open Source Projects
+## 🔓 Top Open Source Projects
 
   <table>
     <thead align="center">
