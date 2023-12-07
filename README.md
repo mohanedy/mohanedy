@@ -107,7 +107,7 @@ positive people.
 
 ## 📝 Latest Articles
 
-[![Template Method Design Pattern in Dart - Medium](https://github-readme-medium.vercel.app/?username=mohaned.y98)](https://medium.com/@mohaned.y98)
+[![Template Method Design Pattern in Dart - Medium](https://github-readme-medium.vercel.app/?username=mohanedy)](https://medium.com/@mohanedy)
 
 ## 📞 Contact me
 
