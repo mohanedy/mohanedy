@@ -68,20 +68,20 @@ positive people.
     </thead>
     <tbody>
       <tr>
-       <td><a href="https://github.com/Mohanedy98/swifty-marvel"><b>SwiftyMarvel 🦸‍♂️</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mohanedy98/swifty-marvel?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mohanedy98/swifty-marvel?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mohanedy98/swifty-marvel?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohanedy98/swifty-marvel?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohanedy98/swifty-marvel?style=flat-square"/></td>
+       <td><a href="https://github.com/mohanedy/swifty-marvel"><b>SwiftyMarvel 🦸‍♂️</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mohanedy/swifty-marvel?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mohanedy/swifty-marvel?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mohanedy/swifty-marvel?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohanedy/swifty-marvel?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohanedy/swifty-marvel?style=flat-square"/></td>
       </tr>
       <tr>
-       <td><a href="https://github.com/mohanedy98/nile-gift"><b>Nile Gift 📜</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mohanedy98/nile-gift?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mohanedy98/nile-gift?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mohanedy98/nile-gift?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohanedy98/nile-gift?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohanedy98/nile-gift?&style=flat-square"/></td>
+       <td><a href="https://github.com/mohanedy/nile-gift"><b>Nile Gift 📜</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mohanedy/nile-gift?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mohanedy/nile-gift?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mohanedy/nile-gift?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohanedy/nile-gift?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohanedy/nile-gift?&style=flat-square"/></td>
       </tr>
       <tr>
        <td><a href="https://github.com/abdelhamid-f-nasser/sliver-snap"><b>Sliver Snap ↕️</b></a></td>
@@ -111,13 +111,13 @@ positive people.
 
 ## 📞 Contact me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohanedy98) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mohanedy98)
-[<img src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mohaned.y98)   [<img src="https://img.shields.io/badge/Mail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohaned.y98@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohanedy) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mohanedy98)
+[<img src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mohanedy)   [<img src="https://img.shields.io/badge/Mail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohaned.y98@gmail.com)
 
 ## ⚡️ Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanedy98&theme=dark)](https://git.io/streak-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanedy&theme=dark)](https://git.io/streak-stats"/>
 </p>
 
 ---
