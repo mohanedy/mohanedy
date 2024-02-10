@@ -28,7 +28,7 @@ positive people.
 
 * 👨🏼‍💻 I work currently as a Flutter & iOS Developer at [WalaPlus💚](http://www.walaplus.com/).
 * 📖 I’m currently learning everything about Flutter and iOS development.
-* 🌍 Check out my portfolio [here](https://mohanedy98.github.io).
+* 🌍 Check out my portfolio [here](https://mohanedy.github.io).
 
 ## ⚒️ Frameworks and Technologies
 
