@@ -1,22 +1,8 @@
-![Cover](./assets/intro_cover.png)
+# Hello 👋, I'm Mohaned
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=500&lines=iOS+Developer;Flutter+Developer;Software+Engineer)
 
 ![visitors](https://komarev.com/ghpvc/?username=mohanedy98)
-
----
-
-<!-- TOC -->
-
-- [🏠 About](#-about)
-- [⚒️ Frameworks and Technologies](#️-frameworks-and-technologies)
-    - [👨‍💻 Programming Languages](#-programming-languages)
-    - [🧰 Frameworks](#-frameworks)
-- [🔓 Top Open Source Projects](#-top-open-source-projects)
-- [🏗 Projects Portfolio](#-projects-portfolio)
-- [📝 Latest Articles](#-latest-articles)
-- [📞 Contact me](#-contact-me)
-- [⚡️ Stats](#️-stats)
-
-<!-- TOC -->
 
 ## 🏠 About
 
